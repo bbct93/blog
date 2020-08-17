@@ -2,6 +2,7 @@
 
 ## 其他
 - [lerna的使用](https://github.com/bbct93/blog/issues/1)
+- [React冒泡和阻止冒泡的应用](https://github.com/bbct93/blog/issues/3)
 
 ## webpack
 - [理解webpack插件plugin](https://github.com/bbct93/blog/issues/2)
